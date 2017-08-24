@@ -21,8 +21,8 @@ traductor que usa la api del traductor de google | para ubuntu
 1. dar permisos permisos de ejecución al archivo `traductor_alv` y copiarlo al directorio `/usr/bin`
 
   ```
-  chmod +x traductor_alv
-  sudo cp traductor_alv /usr/bin
+  chmod +x traductor
+  sudo cp traductor /usr/bin
   ```
 
 2. Por último crea un atajo para el traductor en `Configuración del sistema > Teclado`
